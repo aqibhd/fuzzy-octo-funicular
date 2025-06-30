@@ -1,9 +1,9 @@
 {
-    "min_android": 1,
-    "latest_android": 1,
-    "min_ios": 1,
-    "latest_ios": 1,
-    "message": "message",
-    "android_store_url": "androidStoreUrl",
-    "ios_store_url": "iosStoreUrl"
+    "min_android": 16,
+    "latest_android": 17,
+    "min_ios": 0,
+    "latest_ios": 0,
+    "message": "The app is outdated. Please update to the latest version to continue using the app.",
+    "android_store_url": "https://play.google.com/store/apps/details?id=com.engineersbcs.engineersmcq",
+    "ios_store_url": null
 }
